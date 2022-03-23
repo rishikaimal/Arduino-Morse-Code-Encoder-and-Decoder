@@ -11,3 +11,5 @@ __Componenets used:__
 5. 1k ohm Resistor (x1)
 6. Wires (male to male wires) (x5)
 7. Breadboard (x2)
+
+IDE used: Arduino IDE
